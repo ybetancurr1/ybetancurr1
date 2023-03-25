@@ -3,20 +3,24 @@
 echo ("Hi there 🐘");
 ```
 
-### Hellp there!, I'm Yeison Betancur, and I'm a Backend developer with PHP.
+### Hello there!, I'm Yeison Betancur, and I'm a Backend developer with PHP.
 
 <pre> A little about me =>
 </pre>
-
+************************************************
 ## 💻 Experience
+
+These are my most recent projects and experience:
+
+⚗️ [Project 1]()
+
+🧪 [Project 2]()
+
+🌱 [Project 3]()
+
 ************************************************
-
-⚗️
-🧪
-🌱
-
 ## 💪 Skills
-************************************************
+
 #### 🎨 Frontend:
 <p align="left">
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
@@ -42,10 +46,8 @@ echo ("Hi there 🐘");
 </p>
 
 
+************************************************
  ## Reach me out
- 
-LinkedIn
-Gmail
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ybetancurr1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-betancur-071125192/)
