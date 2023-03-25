@@ -1,5 +1,7 @@
-##### <?php
-### echo ("Hi there 👋");
+```php
+<?php
+echo ("Hi there 👋");
+```
 
 ### Hola, soy Yeison Betancur, desarrollador BackEnd con tecnologías PHP. 
 <!--
