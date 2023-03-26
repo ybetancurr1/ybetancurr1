@@ -47,7 +47,7 @@ These are my most recent projects and experience:
 
 
 ************************************************
- ## Reach me out
+ ## Contact
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ybetancurr1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yeison-betancur-071125192/)
