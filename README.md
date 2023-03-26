@@ -5,7 +5,7 @@ echo ("Hi there 🐘");
 
 ### Hello there!, I'm Yeison Betancur, and I'm a Backend developer with PHP.
 
-<pre> A little about me =>
+<pre> A little more about me =>
 </pre>
 ************************************************
 ## 💻 Experience
