@@ -1,8 +1,3 @@
-```php
-<?php
-echo ("Hi there 🐘");
-```
-
 ### Hello there!, I'm Yeison Betancur, and I'm a Backend developer with PHP.
 
 <pre> A little more about me =>
